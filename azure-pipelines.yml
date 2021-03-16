@@ -26,7 +26,7 @@ resources :
 
     endpoint : MyProject
 
-    name : ILiuACR/shared-azure-pipeline-templates
+    name : dfarn001/shared-azure-pipeline-templates
 
     branch : master
 
